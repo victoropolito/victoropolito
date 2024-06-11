@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">I finally decided to turn the key in my life and I'm trying to improve every day 👊🏻<br><br>- 🔭 I'm looking for a job<br>- 📚 I’m currently learning Node.js, SQL, Vue.js and React<br>- ⚡ In my free time I play games, go to shows and drink ☕</h6>
+<h5 align="left">I finally decided to turn the key in my life and I'm trying to improve every day 👊🏻<br><br>- 🔭 I'm looking for a job<br>- 📚 I’m currently learning Node.js, SQL, Vue.js and React<br>- ⚡ In my free time I play games, go to shows and drink ☕</h6>
 
 ###
 
@@ -67,7 +67,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoropolito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoropolito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
