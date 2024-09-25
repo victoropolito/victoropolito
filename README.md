@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I finally decided to turn the key in my life and I'm trying to improve every day 👊🏻<br><br>- 🔭 I'm looking for a job<br>- 📚 I’m currently learning Node.js, SQL, Vue.js and React<br>- ⚡ In my free time I play games, go to shows and drink ☕</h6>
+<h5 align="left">I finally decided to turn the key in my life and I'm trying to improve every day 👊🏻<br><br>- 🔭 I'm looking for a job<br>- 📚 I’m currently learning/improving Node.js, SQL, Vue.js and React<br>- ⚡ In my free time I play games, go to shows and drink ☕</h6>
 
 ###
 
