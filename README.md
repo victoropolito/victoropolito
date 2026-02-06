@@ -9,7 +9,7 @@
 <h5 align="left">Finally decided to turn the key in my life... Improving every day 👊🏻<br>
   <br>- 📚 I’m currently learning/improving Node.js, SQL, Vue.js and React
   <br>- ⚡ In my free time I play games, go to shows and drink ☕
-  <br>- 📄 Visit my <a href="https:https://portfolio-ashy-rho-15.vercel.app">portfolio!</a>
+  <br>- 📄 Visit my <a href="https://portfolio-ashy-rho-15.vercel.app">portfolio!</a>
 </h6>
 
 ###
